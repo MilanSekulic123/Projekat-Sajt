@@ -41,3 +41,23 @@ body {
   margin-right: 20px;
   margin-bottom: 10px;
 }
+header p::first-letter {
+  font-size: 40px;
+}
+figure {
+  display: block;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+figure img {
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin: 5px auto;
+}
+main {
+  padding: 15px 15px;
+}
+figcaption {
+  text-align: center;
+}
