@@ -1,0 +1,15 @@
+.out {
+  outline: blanchedalmond solid 50px;
+  border: 2px solid powderblue;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  outline-width: thin;
+  outline-color: cadetblue;
+  outline-offset: 10px;
+  color: royalblue;
+  text-align: center;
+}
+img.sl {
+  vertical-align: sub;
+}
